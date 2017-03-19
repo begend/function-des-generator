@@ -1,0 +1,21 @@
+{
+  "name": "generate-function-description",
+  "main": "./lib/generate-function-description",
+  "version": "2.1.0",
+  "description": "Generates comments describing functions",
+  "keywords": [
+    "comment",
+    "comments",
+    "function",
+    "generator"
+  ],
+  "activationCommands": {
+    "atom-workspace": "generate-function-description:generate"
+  },
+  "repository": "https://github.com/jackosx/atom-generate-function-description",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

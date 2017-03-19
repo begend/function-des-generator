@@ -10,10 +10,13 @@ before:
 ![A screenshot](http://g.recordit.co/rZT2QkanQt.gif)
 
 my :
-    /**
+    
+demo:
+	/**
      * @brief : Autogenerates function contract comments
      * @params : [in|out]  : 
      * @return :  int
      * @retval :
      **/
     int init_log();
+
